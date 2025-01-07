@@ -1,4 +1,4 @@
-package assignments.arrays
+package assignments.arrays.easy
 
 /**
  * 1920. Build Array from Permutation
